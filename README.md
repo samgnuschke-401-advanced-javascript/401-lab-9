@@ -1,4 +1,4 @@
-LAB - 401-08  Express routing
+LAB - 401-09  Express routing
 Project Express Routing
 Author: Sam Gnuschke
 Common npm Scripts
@@ -9,7 +9,7 @@ Common npm Scripts
 "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json" .
 
 ### Links and Resources
-* [submission PR](https://github.com/samgnuschke-401-advanced-javascript/401-lab-00/pulls)
+* [submission PR](https://github.com/samgnuschke-401-advanced-javascript/401-lab-09/pulls)
 * [travisYML]()
 * [front-end-Heroku]()
 
